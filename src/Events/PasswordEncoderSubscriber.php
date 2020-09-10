@@ -1,5 +1,8 @@
 <?php
 
+/*
+ * EventListener on method post and instance of Class User that hash the password
+ */
 declare(strict_types=1);
 
 namespace App\Events;
