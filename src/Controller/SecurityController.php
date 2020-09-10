@@ -1,5 +1,5 @@
 <?php
-/*
+/**
  * Login and logout route controller to login form
  */
 namespace App\Controller;

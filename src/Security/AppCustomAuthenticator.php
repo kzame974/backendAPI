@@ -1,5 +1,5 @@
 <?php
-/*
+/**
  * Authenticator service that get and check if the user credientials are correct, rehash the password on it seft route (app_login)
  */
 namespace App\Security;
